@@ -1,0 +1,8 @@
+{
+  "name": "botstation-verify",
+  "version": "1.0.0",
+  "dependencies": {
+    "mongoose": "^8.0.0",
+    "axios": "^1.6.0"
+  }
+}
