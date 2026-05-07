@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/verify", "destination": "/api/verify" },
-    { "source": "/api/submit", "destination": "/api/submit" },
-    { "source": "/api/create-token", "destination": "/api/create-token" },
-    { "source": "/error", "destination": "/api/error" }
-  ]
-}
