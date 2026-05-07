@@ -1,1 +1,3 @@
-// Vercel entrypoint - logika jest w /api
+const express = require('express');
+const app = express();
+module.exports = app;
